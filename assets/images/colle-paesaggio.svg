@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+  <title id="title">Un casale tra le colline</title>
+  <desc id="desc">Illustrazione originale a colori caldi di un casale su un colle, con campi e colline sovrapposte.</desc>
+  <rect width="760" height="520" fill="#e6e3d3"/>
+  <circle cx="588" cy="116" r="49" fill="#d2a875"/>
+  <path d="M0 238c100-79 187-85 286-17 77 53 133 53 212 9 103-57 170-47 262 7v283H0Z" fill="#aab89a"/>
+  <path d="M0 300c112-63 197-67 294-15 83 44 142 45 232 6 88-38 151-38 234-2v231H0Z" fill="#778e73"/>
+  <path d="M0 360c105-62 190-65 290-23 93 40 158 49 253 11 91-36 149-36 217-8v180H0Z" fill="#5e765f"/>
+  <path d="M0 418c129-52 219-45 307-15 95 32 164 34 249 8 79-24 137-30 204-10v119H0Z" fill="#b98b60"/>
+  <path d="M0 455c105-27 180-26 265-5 97 24 158 25 253 8 106-19 166-23 242-8v78H0Z" fill="#d6b688"/>
+  <path d="M92 387c74-30 139-36 203-18" fill="none" stroke="#e4d0a7" stroke-width="3" opacity=".8"/>
+  <path d="M468 365c68-26 119-30 180-16" fill="none" stroke="#d5c398" stroke-width="3" opacity=".75"/>
+  <path d="M154 327h128v84H154z" fill="#efe7d4"/>
+  <path d="m142 327 76-61 76 61Z" fill="#a25f47"/>
+  <path d="M197 411v-47h36v47" fill="#68795f"/>
+  <path d="M170 346h17v20h-17zm79 0h17v20h-17z" fill="#81927b"/>
+  <path d="M154 411h128" stroke="#aa8660" stroke-width="4"/>
+  <path d="M99 420v-48m-10 0h20m-17 15h14m-11 15h8m-5 18v-48" stroke="#445b47" stroke-width="3" stroke-linecap="round"/>
+  <path d="M339 403v-52m-12 0h24m-20 17h16m-12 17h8m-4 18v-52" stroke="#445b47" stroke-width="3" stroke-linecap="round"/>
+  <path d="M378 439v-39m-9 0h18m-15 13h12m-9 13h6m-3 13v-39" stroke="#53694f" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M60 444c83-21 133-17 204 1m178 16c93-25 162-29 249-16" fill="none" stroke="#8f684c" stroke-width="2" opacity=".55"/>
+  <g fill="#6b8168">
+    <circle cx="120" cy="298" r="10"/><circle cx="135" cy="294" r="12"/><circle cx="148" cy="300" r="9"/>
+    <circle cx="287" cy="305" r="10"/><circle cx="300" cy="298" r="13"/><circle cx="314" cy="306" r="9"/>
+    <circle cx="562" cy="339" r="10"/><circle cx="577" cy="332" r="13"/><circle cx="590" cy="340" r="9"/>
+  </g>
+  <g fill="#435a47">
+    <path d="m118 286 3-24 4 24z"/><path d="m299 289 3-28 4 28z"/><path d="m575 324 3-27 4 27z"/>
+  </g>
+</svg>

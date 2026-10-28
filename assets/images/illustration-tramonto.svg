@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" role="img" aria-labelledby="title desc">
+  <title id="title">Luce di sera</title>
+  <desc id="desc">Illustrazione originale di un tramonto color terracotta che illumina le colline e un sentiero.</desc>
+  <rect width="880" height="500" fill="#dfc9a8"/>
+  <circle cx="441" cy="217" r="117" fill="#c87855"/>
+  <path d="M0 223c111-53 212-48 316-2 113 50 194 49 305-4 96-46 172-52 259-20v303H0Z" fill="#97a188"/>
+  <path d="M0 301c130-54 239-46 348-2 118 48 215 53 326 6 81-34 145-39 206-17v212H0Z" fill="#677d66"/>
+  <path d="M0 386c125-47 225-55 350-20 113 31 211 38 328-4 74-27 138-28 202-11v147H0Z" fill="#9c7758"/>
+  <path d="M0 448c153-33 250-37 363-12 120 27 238 27 351-4 62-17 118-19 166-10v78H0Z" fill="#d1b58b"/>
+  <path d="M472 500c-34-54-49-98-36-141 9-30 22-52 17-77 42 26 68 64 68 105 0 40-18 76-49 113Z" fill="#e1c99f"/>
+  <path d="M472 500c-18-47-22-84-9-116 9-23 20-43 16-65 31 24 47 53 46 84-1 32-19 65-53 97Z" fill="#edd9b4"/>
+  <g fill="#405b49">
+    <path d="m113 392 19-115 20 115z"/><path d="m139 392 20-142 22 142z"/>
+    <path d="m715 376 18-111 20 111z"/><path d="m741 376 20-135 21 135z"/>
+  </g>
+  <g fill="#d8aa79" opacity=".8">
+    <circle cx="147" cy="162" r="3"/><circle cx="213" cy="111" r="4"/><circle cx="661" cy="145" r="3"/>
+    <circle cx="728" cy="197" r="4"/><circle cx="297" cy="203" r="3"/><circle cx="585" cy="96" r="3"/>
+  </g>
+  <path d="M0 266c89-33 160-34 240-9m384 30c92-32 160-35 256-12" fill="none" stroke="#f1dfbd" stroke-width="3" opacity=".75"/>
+</svg>

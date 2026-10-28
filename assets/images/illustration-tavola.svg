@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" role="img" aria-labelledby="title desc">
+  <title id="title">La tavola di campagna</title>
+  <desc id="desc">Natura morta illustrata con pane, olio, olive e fiori su una tavola rustica.</desc>
+  <rect width="880" height="500" fill="#e6dfcf"/>
+  <path d="M0 0h880v292c-129 33-251 36-384 8-170-36-319-39-496 1Z" fill="#e8d8bb"/>
+  <path d="M0 301c159-34 308-37 484-4 145 27 276 27 396-3v206H0Z" fill="#ad7957"/>
+  <path d="M0 337c191-38 352-22 512 5 128 22 254 18 368-12" fill="none" stroke="#c4936c" stroke-width="8" opacity=".7"/>
+  <ellipse cx="430" cy="316" rx="279" ry="102" fill="#f0e7d4"/>
+  <ellipse cx="430" cy="317" rx="246" ry="78" fill="#d9dfc7"/>
+  <path d="M298 307c2-47 51-84 109-81 57 3 96 42 92 91-3 37-35 59-98 57-70-2-105-24-103-67Z" fill="#d2a16e"/>
+  <path d="M321 287c25-29 53-38 89-35m-67 57c26-24 63-34 103-28m-93 52c31-20 65-25 105-17" fill="none" stroke="#f0d2a5" stroke-linecap="round" stroke-width="7"/>
+  <path d="M548 252c28 0 50 21 50 47v32h-99v-32c0-26 21-47 49-47Z" fill="#82916f"/>
+  <path d="M517 270c20 12 42 12 62 0m-78 38h96" fill="none" stroke="#d9dfc7" stroke-width="4" opacity=".8"/>
+  <path d="M552 251c3-30 16-49 33-63" fill="none" stroke="#667a5c" stroke-linecap="round" stroke-width="5"/>
+  <ellipse cx="592" cy="186" rx="15" ry="8" transform="rotate(-34 592 186)" fill="#758453"/>
+  <path d="M207 320c-2-36 20-63 55-63 34 0 56 26 54 61-2 34-22 55-55 55-32 0-52-20-54-53Z" fill="#a86348"/>
+  <path d="M220 311c23-10 47-10 76 0m-70 19c19-7 41-7 63 0" fill="none" stroke="#d68e66" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#bd7654">
+    <circle cx="665" cy="329" r="8"/><circle cx="690" cy="340" r="7"/><circle cx="676" cy="356" r="8"/>
+  </g>
+  <g stroke="#8c6347" stroke-linecap="round" stroke-width="5">
+    <path d="M86 142v117m-29-78 29 21 30-23m-30 74 23-20"/>
+  </g>
+  <g fill="#889875">
+    <ellipse cx="54" cy="178" rx="20" ry="9" transform="rotate(24 54 178)"/>
+    <ellipse cx="116" cy="161" rx="22" ry="10" transform="rotate(-35 116 161)"/>
+    <ellipse cx="105" cy="241" rx="19" ry="9" transform="rotate(-25 105 241)"/>
+  </g>
+  <circle cx="739" cy="115" r="40" fill="#d7a16e" opacity=".8"/>
+</svg>

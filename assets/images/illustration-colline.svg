@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" role="img" aria-labelledby="title desc">
+  <title id="title">Colline e casale</title>
+  <desc id="desc">Illustrazione originale di un piccolo casale sulle colline, tra campi a fasce e cipressi.</desc>
+  <rect width="880" height="500" fill="#e9dfc9"/>
+  <circle cx="690" cy="112" r="56" fill="#d7a16e"/>
+  <path d="M0 246c120-87 231-101 361-27 112 64 192 66 309 5 81-42 143-46 210-20v296H0Z" fill="#a9b393"/>
+  <path d="M0 319c122-72 235-84 348-28 108 54 199 62 314 8 87-41 153-49 218-20v221H0Z" fill="#71856d"/>
+  <path d="M0 391c133-63 237-65 356-18 110 43 200 52 319 11 77-27 142-31 205-13v129H0Z" fill="#b9855e"/>
+  <path d="M0 445c129-43 225-47 336-13 111 34 209 40 320 9 86-25 159-29 224-12v71H0Z" fill="#d5b688"/>
+  <path d="M137 326h124v84H137z" fill="#f0e7d4"/>
+  <path d="m126 328 73-62 74 62Z" fill="#a76249"/>
+  <path d="M181 410v-43h37v43" fill="#6e8064"/>
+  <path d="M151 344h17v20h-17zm79 0h17v20h-17z" fill="#84937b"/>
+  <g stroke="#465d48" stroke-linecap="round" stroke-width="4">
+    <path d="M93 409v-87m-13 15h26m-22 19h18m-13 19h11"/>
+    <path d="M311 404v-72m-11 14h22m-19 16h16m-12 16h10"/>
+    <path d="M750 418v-96m-14 17h28m-22 19h17m-12 19h11"/>
+  </g>
+  <path d="M77 430c69-22 119-22 189-2m188 21c86-27 156-28 240-7" fill="none" stroke="#f0d4a2" stroke-width="4" opacity=".7"/>
+  <g fill="#546c51">
+    <circle cx="291" cy="303" r="16"/><circle cx="312" cy="297" r="20"/><circle cx="333" cy="306" r="14"/>
+    <circle cx="572" cy="335" r="14"/><circle cx="592" cy="329" r="19"/><circle cx="612" cy="337" r="13"/>
+  </g>
+</svg>
