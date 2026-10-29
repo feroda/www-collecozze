@@ -22,10 +22,10 @@
   const carousel = document.querySelector(".carousel");
   if (carousel) {
     const slides = Array.from(carousel.querySelectorAll(".carousel-slide"));
-    const indicators = Array.from(carousel.querySelectorAll(".carousel-indicator"));
     const previous = carousel.querySelector(".carousel-prev");
     const next = carousel.querySelector(".carousel-next");
     const status = carousel.querySelector(".carousel-status");
+    const count = carousel.querySelector(".carousel-count");
     let current = 0;
     let touchStart = null;
 
@@ -33,18 +33,19 @@
       current = (index + slides.length) % slides.length;
       slides.forEach((slide, slideIndex) => {
         slide.hidden = slideIndex !== current;
-        indicators[slideIndex].setAttribute("aria-current", String(slideIndex === current));
+        if (slideIndex !== current) {
+          slide.querySelector("video")?.pause();
+        }
       });
 
       const title = slides[current].querySelector("figcaption span:last-child").textContent.trim();
-      status.textContent = `Illustrazione ${current + 1} di ${slides.length}: ${title}`;
+      const position = String(current + 1).padStart(2, "0");
+      count.textContent = `${position} / ${String(slides.length).padStart(2, "0")}`;
+      status.textContent = `Elemento ${current + 1} di ${slides.length}: ${title}`;
     };
 
     previous.addEventListener("click", () => showSlide(current - 1));
     next.addEventListener("click", () => showSlide(current + 1));
-    indicators.forEach((indicator, index) => {
-      indicator.addEventListener("click", () => showSlide(index));
-    });
 
     carousel.addEventListener("keydown", (event) => {
       if (event.altKey || event.ctrlKey || event.metaKey) return;
